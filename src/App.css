@@ -1,0 +1,29 @@
+ 
+.App {
+  text-align: center;
+
+}
+.countriesList{
+  padding: 10px;
+  display: flex;
+  gap: 15px;
+  flex-wrap: wrap;
+  justify-content: center;
+}  
+
+.countryCard{
+  width: 175px;
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  margin: 10px;;
+}
+header{
+  background-color: #f6f6f6;
+  box-shadow: 1px 1px 5px #ccc;
+  padding: 8px 0px;
+}
+         
+.searchInput{
+  width: 50%;
+  padding: 8px 8px;
+}
